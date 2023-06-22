@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm rhitune</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhitune&label=Profile%20views&color=0e75b6&style=flat" alt="rhitune" /> </p>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **PHP and Node.JS**
 
 - 📫 How to reach me **Discord : rhitune / rhitune#0821**
 
